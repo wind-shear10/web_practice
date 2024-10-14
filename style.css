@@ -67,7 +67,7 @@ letter-spacing: 1px;
 body{
     width: 1800px;
     height: 904px;
-    background-image: url("/img/Image.png");
+    background-image: url("Image.png");
     background-repeat: no-repeat;
 }
 span{
